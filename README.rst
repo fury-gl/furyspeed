@@ -11,9 +11,6 @@ furyspeed
 
 FURY addon providing optimized functions
 
-* Free software: 3-clause BSD license
-* Documentation: (COMING SOON!) https://skoudoro.github.io/furyspeed.
-
 Features
 --------
 

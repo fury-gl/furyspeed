@@ -39,7 +39,7 @@ setup(
     cmdclass=versioneer.get_cmdclass(),
     description="FURY addon providing optimized functions",
     long_description=readme,
-    author="fury-gl",
+    author="Serge koudoro and FURY Developers",
     author_email='fury@python.org',
     url='https://github.com/skoudoro/furyspeed',
     python_requires='>={}'.format('.'.join(str(n) for n in min_version)),
