@@ -157,6 +157,9 @@ dmypy.json
 
 # Cython
 *.c
+pyx-stamps
+__config__.py
+.DS_Store
 
 # Setuptools_scm
 _version.py
