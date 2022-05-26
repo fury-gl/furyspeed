@@ -154,3 +154,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cython
+*.c
+
+# Setuptools_scm
+_version.py
+
